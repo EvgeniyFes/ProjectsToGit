@@ -1,0 +1,6 @@
+c:\users\evgeniy\documents\visual studio 2013\Projects\AlternatTicTacToe\AlternatTicTacToe\bin\Debug\AlternatTicTacToe.exe.config
+c:\users\evgeniy\documents\visual studio 2013\Projects\AlternatTicTacToe\AlternatTicTacToe\bin\Debug\AlternatTicTacToe.exe
+c:\users\evgeniy\documents\visual studio 2013\Projects\AlternatTicTacToe\AlternatTicTacToe\bin\Debug\AlternatTicTacToe.pdb
+c:\users\evgeniy\documents\visual studio 2013\Projects\AlternatTicTacToe\AlternatTicTacToe\obj\Debug\AlternatTicTacToe.csprojResolveAssemblyReference.cache
+c:\users\evgeniy\documents\visual studio 2013\Projects\AlternatTicTacToe\AlternatTicTacToe\obj\Debug\AlternatTicTacToe.exe
+c:\users\evgeniy\documents\visual studio 2013\Projects\AlternatTicTacToe\AlternatTicTacToe\obj\Debug\AlternatTicTacToe.pdb
