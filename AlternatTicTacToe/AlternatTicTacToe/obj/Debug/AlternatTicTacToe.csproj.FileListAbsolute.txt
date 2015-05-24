@@ -4,3 +4,9 @@ c:\users\evgeniy\documents\visual studio 2013\Projects\AlternatTicTacToe\Alterna
 c:\users\evgeniy\documents\visual studio 2013\Projects\AlternatTicTacToe\AlternatTicTacToe\obj\Debug\AlternatTicTacToe.csprojResolveAssemblyReference.cache
 c:\users\evgeniy\documents\visual studio 2013\Projects\AlternatTicTacToe\AlternatTicTacToe\obj\Debug\AlternatTicTacToe.exe
 c:\users\evgeniy\documents\visual studio 2013\Projects\AlternatTicTacToe\AlternatTicTacToe\obj\Debug\AlternatTicTacToe.pdb
+C:\MyProject\ProjectsToGit\AlternatTicTacToe\AlternatTicTacToe\bin\Debug\AlternatTicTacToe.exe.config
+C:\MyProject\ProjectsToGit\AlternatTicTacToe\AlternatTicTacToe\obj\Debug\AlternatTicTacToe.exe
+C:\MyProject\ProjectsToGit\AlternatTicTacToe\AlternatTicTacToe\obj\Debug\AlternatTicTacToe.pdb
+C:\MyProject\ProjectsToGit\AlternatTicTacToe\AlternatTicTacToe\bin\Debug\AlternatTicTacToe.exe
+C:\MyProject\ProjectsToGit\AlternatTicTacToe\AlternatTicTacToe\bin\Debug\AlternatTicTacToe.pdb
+C:\MyProject\ProjectsToGit\AlternatTicTacToe\AlternatTicTacToe\obj\Debug\AlternatTicTacToe.csprojResolveAssemblyReference.cache

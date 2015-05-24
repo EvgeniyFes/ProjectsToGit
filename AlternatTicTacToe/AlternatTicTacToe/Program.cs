@@ -57,7 +57,7 @@ namespace AlternatTicTacToe
 
         static bool takeDataForGame(bool player, ref int nextCell, GameField global, GameField[] cell)
         {
-            if (nextCell != -1)
+            if (nextCell != -1 && nextCell != -2)
             {
                 if (cell[nextCell].checkIfFull())
                 {
