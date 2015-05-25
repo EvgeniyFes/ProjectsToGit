@@ -10,3 +10,9 @@ C:\MyProject\ProjectsToGit\AlternatTicTacToe\AlternatTicTacToe\obj\Debug\Alterna
 C:\MyProject\ProjectsToGit\AlternatTicTacToe\AlternatTicTacToe\bin\Debug\AlternatTicTacToe.exe
 C:\MyProject\ProjectsToGit\AlternatTicTacToe\AlternatTicTacToe\bin\Debug\AlternatTicTacToe.pdb
 C:\MyProject\ProjectsToGit\AlternatTicTacToe\AlternatTicTacToe\obj\Debug\AlternatTicTacToe.csprojResolveAssemblyReference.cache
+C:\MyProject\ProjectsToGit\AlternatTicTacToe2\AlternatTicTacToe\bin\Debug\AlternatTicTacToe.exe.config
+C:\MyProject\ProjectsToGit\AlternatTicTacToe2\AlternatTicTacToe\obj\Debug\AlternatTicTacToe.exe
+C:\MyProject\ProjectsToGit\AlternatTicTacToe2\AlternatTicTacToe\obj\Debug\AlternatTicTacToe.pdb
+C:\MyProject\ProjectsToGit\AlternatTicTacToe2\AlternatTicTacToe\bin\Debug\AlternatTicTacToe.exe
+C:\MyProject\ProjectsToGit\AlternatTicTacToe2\AlternatTicTacToe\bin\Debug\AlternatTicTacToe.pdb
+C:\MyProject\ProjectsToGit\AlternatTicTacToe2\AlternatTicTacToe\obj\Debug\AlternatTicTacToe.csprojResolveAssemblyReference.cache
